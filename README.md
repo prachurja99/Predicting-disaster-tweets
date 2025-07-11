@@ -34,7 +34,7 @@ These results are based on the Kaggle dataset we used for training and testing.
 ## Team Members
 - [Prachurja Bhattacharjee](https://github.com/prachurja99)  
 - [Muntasir Arin](https://github.com/Muntasir-Arin)  
-- Sakib Rayhan  
+- [Sakib Rayhan](https://github.com/Sakib179)  
 
 ## Acknowledgement
 Thanks to Kaggle for the dataset and BRAC University CSE440 course for the project guidelines.
